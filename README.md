@@ -42,6 +42,7 @@ module ripple_counter_4bit (
     end
 
 endmodule
+
 ```
 /* Program for 4 Bit Ripple Counter and verify its truth table in quartus using Verilog programming.
 
